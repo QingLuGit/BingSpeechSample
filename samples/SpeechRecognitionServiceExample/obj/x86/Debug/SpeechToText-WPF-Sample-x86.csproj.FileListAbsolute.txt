@@ -1,0 +1,1 @@
+D:\speechtest\Cognitive-Speech-STT-Windows\samples\SpeechRecognitionServiceExample\bin\x86\Debug\SpeechToText-WPF-Sample.exe.config
